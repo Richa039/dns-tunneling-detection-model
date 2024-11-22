@@ -15,7 +15,7 @@ Dataset
 
 **Regular Data**: A ZIP file containing benign DNS traffic.
 
-**Tunneling Data**: A ZIP file containing DNS tunneling traffic.
+**Tunneling Data**: A ZIP file containing DNS tunneling traffic is Attack.zip.
 Ensure the datasets are in CSV format and correctly zipped before running the script.
 
 **To install all dependencies, run:**
