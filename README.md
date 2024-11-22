@@ -17,14 +17,14 @@ Tunneling Data: A ZIP file containing DNS tunneling traffic.
 Ensure the datasets are in CSV format and correctly zipped before running the script.
 
 **Requirements**
-Python 3.7+
-Libraries:
-numpy
-pandas
-matplotlib
-seaborn
-scikit-learn
-joblib
+```plaintext
+numpy==1.23.5
+pandas==1.5.3
+scikit-learn==1.2.2
+matplotlib==3.6.2
+seaborn==0.12.1
+joblib==1.2.0
+
 
 **To install all dependencies, run:**
 pip install -r requirements.txt
