@@ -16,16 +16,6 @@ Regular Data: A ZIP file containing benign DNS traffic.
 Tunneling Data: A ZIP file containing DNS tunneling traffic.
 Ensure the datasets are in CSV format and correctly zipped before running the script.
 
-**Requirements**
-
-numpy==1.23.5
-pandas==1.5.3
-scikit-learn==1.2.2
-matplotlib==3.6.2
-seaborn==0.12.1
-joblib==1.2.0
-
-
 **To install all dependencies, run:**
 pip install -r requirements.txt
 
@@ -33,7 +23,7 @@ pip install -r requirements.txt
 Clone the repository:
 git clone https://github.com/your-username/dns_tunneling_adversarial_model.git
 
-cd dns_tunneling_adversarial_model
+**cd dns_tunneling_adversarial_model**
 Place the ZIP archives for regular and tunneling datasets in the project root directory.
 
 **Run the Python script:**
