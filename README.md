@@ -32,6 +32,7 @@ pip install -r requirements.txt
 **Usage**
 Clone the repository:
 git clone https://github.com/your-username/dns_tunneling_adversarial_model.git
+
 cd dns_tunneling_adversarial_model
 Place the ZIP archives for regular and tunneling datasets in the project root directory.
 
@@ -53,3 +54,5 @@ dns_tunneling_adversarial_model/
 ├── requirements.txt          # Dependencies
 ├── README.md                 # Project documentation
 └── <datasets>                # Place your datasets here
+
+
