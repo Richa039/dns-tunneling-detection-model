@@ -12,8 +12,8 @@ Provides detailed performance metrics, including accuracy, precision, recall, F1
 Dataset
 **The project requires two datasets**:
 
-Regular Data: A ZIP file containing benign DNS traffic.
-Tunneling Data: A ZIP file containing DNS tunneling traffic.
+**Regular Data**: A ZIP file containing benign DNS traffic.
+**Tunneling Data**: A ZIP file containing DNS tunneling traffic.
 Ensure the datasets are in CSV format and correctly zipped before running the script.
 
 **To install all dependencies, run:**
