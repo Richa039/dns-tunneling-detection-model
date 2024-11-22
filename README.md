@@ -15,8 +15,9 @@ Dataset
 Regular Data: A ZIP file containing benign DNS traffic.
 Tunneling Data: A ZIP file containing DNS tunneling traffic.
 Ensure the datasets are in CSV format and correctly zipped before running the script.
-```plaintext
+
 **Requirements**
+
 numpy==1.23.5
 pandas==1.5.3
 scikit-learn==1.2.2
