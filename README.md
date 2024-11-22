@@ -49,10 +49,10 @@ Confusion Matrices: Heatmaps showing performance on clean and adversarial data.
 Adversarially Trained Model: Saved as dns_tunneling_adversarial_model.pkl.
 
 **Project Structure**
+```plaintext
 dns_tunneling_adversarial_model/
 ├── dns_tunneling_model.py    # Main script
 ├── requirements.txt          # Dependencies
 ├── README.md                 # Project documentation
-└── <datasets>                # Place your datasets here
-
+└── datasets/                 # Place your datasets here
 
