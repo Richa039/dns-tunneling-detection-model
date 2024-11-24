@@ -19,7 +19,7 @@ Provides detailed performance metrics, including accuracy, precision, recall, F1
 **Tunneling Data**: A ZIP file containing DNS tunneling traffic is Attack.zip.
 Ensure the datasets are in CSV format and correctly zipped before running the script.
 
-# To install all dependencies, run:
+# To install all dependencies, run
 pip install -r requirements.txt
 
 #  Usage
