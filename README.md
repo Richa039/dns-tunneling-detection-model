@@ -1,4 +1,4 @@
-# DNS Tunneling Detection with Adversarial Machine Learning
+# DNS Tunneling Detection With Adversarial Machine Learning
 This project implements an adversarial machine learning pipeline to detect DNS tunneling attacks. It uses Random Forest classifiers trained on both clean and adversarially crafted datasets. The adversarial examples are generated based on feature importance to evaluate the robustness of the model.
 Features
 Extracts and preprocesses datasets from ZIP archives containing CSV files.
