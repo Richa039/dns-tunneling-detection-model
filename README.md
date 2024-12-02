@@ -5,7 +5,7 @@ Extracts and preprocesses datasets from ZIP archives containing CSV files.
 Handles missing values, label encoding for categorical features, and feature scaling.
 Selects the top k features based on ANOVA F-statistic.
 Trains and evaluates a Random Forest classifier on clean data.
-Generates adversarial examples by perturbing features based on their importance.
+Generates adversarial examples by perturbing features.
 Combines clean and adversarial examples for adversarial training.
 Evaluates model performance on clean and adversarial test sets.
 Provides detailed performance metrics, including accuracy, precision, recall, F1-score, and confusion matrices.
