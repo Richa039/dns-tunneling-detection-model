@@ -7,7 +7,7 @@ Selects the top k features based on ANOVA F-statistic.
 Trains and evaluates a Random Forest classifier on clean data.
 Generates adversarial examples by perturbing features.
 Combines clean and adversarial examples for adversarial training.
-Evaluates model performance on clean and adversarial test sets.
+Evaluates model performance for both model on clean test sets.
 Provides detailed performance metrics, including accuracy, precision, recall, F1-score, and confusion matrices.
 
 ## Datasets
